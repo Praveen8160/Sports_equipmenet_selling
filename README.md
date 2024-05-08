@@ -1,4 +1,4 @@
-Sports Equipment selling project on .net Framework
+Sports Equipment selling project on ASP.net Framework
 
 -->Designed and developed a comprehensive Sport Equipment Selling Management System 
 using .NET framework. Implemented core functionalities including user authentication via 
